@@ -114,7 +114,7 @@ I don't think either of us consider ourselves true experts, but we can try to he
 
 ----------------------------------------------------------
 
-##C#
+##C-Sharp
 
 ####Pros
 * Just like Java, but without restrictions
@@ -134,6 +134,3 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * Pranav Mathur
 
 --------------------------------------------------------
-
-
-* 
