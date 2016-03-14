@@ -20,7 +20,7 @@ one.
 * Python2 and Python3 are not consistent with syntax
 
 ####Tutorials
-* [LearnPython.org](http://www.learnpython.org/)
+* [Learn Python](http://www.learnpython.org/)
 
 ####Team Experts
 * Daniel Grimshaw
@@ -43,7 +43,7 @@ one.
 * Has a reputation as a programming "toy" rather than a language
 
 ####Tutorials
-* [LearnJavaOnline.org](http://www.learnjavaonline.org/)
+* [Learn Java Online](http://www.learnjavaonline.org/)
 
 ####Team Experts
 * Pranav Mathur (best)
@@ -65,7 +65,7 @@ one.
 * Vulnerable to overflow errors, which can kill your computer if used correctly
 
 ####Tutorials
-* [Learn-C.org](http://www.learn-c.org/)
+* [Learn C](http://www.learn-c.org/)
 
 ####Team Experts
 * Daniel Grimshaw (best)
@@ -84,7 +84,7 @@ one.
 * Lots of bad tutorials on the internet
 
 ####Tutorials
-* [Learn-JS.org](http://www.learn-js.org/)
+* [Learn JS](http://www.learn-js.org/)
 
 ####Team Experts
 * No one
@@ -105,7 +105,7 @@ one.
 * We don't have a Linux computer right now to run these on
 
 ####Tutorials
-* [LearnShell.org](http://www.learnshell.org/)
+* [Learn Shell](http://www.learnshell.org/)
 
 ####Team Experts
 I don't think either of us consider ourselves true experts, but we can try to help:
@@ -128,7 +128,7 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * Non-transferable skill, unless you wish to work for Microsoft.
 
 ####Tutorials
-* [LearnCS.org](http://www.learncs.org/)
+* [Learn CS](http://www.learncs.org/)
 
 ####Team Experts
 * Pranav Mathur
@@ -150,7 +150,7 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * Difficult to install on Windows
 
 ####Tutorials
-* [LearnYouAHaskell.com](http://learnyouahaskell.com/)
+* [Learn You A Haskell](http://learnyouahaskell.com/)
 
 ####Team Experts
 * Pranav Mathur (minimal)
