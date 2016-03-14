@@ -135,6 +135,27 @@ I don't think either of us consider ourselves true experts, but we can try to he
 
 --------------------------------------------------------
 
+##Objective C
+
+####Pros
+* Used for all Macintosh and iOS applications
+* Object oriented
+
+####Cons
+* Not usable on Linux or Windows
+* Monopolized by Apple
+* Extremely odd syntax, similar to SmallTalk
+* Requires a Macintosh to compile and run easily
+* Default classes are very oddly named due to copyright laws
+
+####Tutorials
+* [Objective-C Tutorial](http://www.tutorialspoint.com/objective_c/)
+
+####Team Experts
+* No one
+
+--------------------------------------------------------
+
 ##Haskell
 
 ####Pros
