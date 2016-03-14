@@ -134,3 +134,25 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * Pranav Mathur
 
 --------------------------------------------------------
+
+##Haskell
+
+####Pros
+* Fully functional
+* Mathematical syntax
+* Compiles into executable for similar speed to C
+* Can be compiled or interpreted
+* Has an interpreter similar to Python, which can also load source files
+* "If it compiles, it probably works"
+
+####Cons
+* VERY difficult to learn if coming from an imperative language
+* Difficult to install on Windows
+
+####Tutorials
+* [LearnYouAHaskell.com](http://learnyouahaskell.com/)
+
+####Team Experts
+* Pranav Mathur (minimal)
+
+--------------------------------------------------------
