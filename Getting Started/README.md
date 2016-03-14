@@ -156,3 +156,23 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * Pranav Mathur (minimal)
 
 --------------------------------------------------------
+
+##Rust
+
+####Pros
+* Just like C, but with less complicated syntax
+* C-like syntax for simple code
+* Compiles into executable for similar speed to C
+* Very fast due to lack of garbage collector
+
+####Cons
+* Not widely used
+
+####Tutorials
+* [Rust By Example](http://rustbyexample.com/)
+
+####Team Experts
+* Pranav Mathur (minimal)
+
+--------------------------------------------------------
+
