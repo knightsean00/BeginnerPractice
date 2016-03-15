@@ -1,0 +1,19 @@
+# Created by Daniel Grimshaw
+
+Write a program to draw a cheveron of any size the user requests.
+
+Example Output:
+
+What size? 5
+    /\
+   /  \
+  /    \
+ /      \
+/        \
+\        /
+ \      /
+  \    /
+   \  /
+    \/
+
+
