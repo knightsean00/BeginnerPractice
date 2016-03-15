@@ -5,6 +5,8 @@ you to have any fun, its probably best that you learn how to program.
 Here is a list of languages you can learn, and our thoughts about each
 one.
 
+Each language paragraph has a list of pros and cons, a link to a useful tutorial, and a list of experts on the team. If an expert's name is bold, it means they are extremely proficient in the language. If their name is in italics, they are minimally proficient.
+
 ##Python
 
 ####Pros
@@ -23,8 +25,8 @@ one.
 * [Learn Python](http://www.learnpython.org/)
 
 ####Team Experts
-* Daniel Grimshaw
-* Zach O'hara
+* **Daniel Grimshaw**
+* **Zach O'hara**
 * Pranav Mathur
 
 ---------------------------------------------------------
@@ -46,7 +48,7 @@ one.
 * [Learn Java Online](http://www.learnjavaonline.org/)
 
 ####Team Experts
-* Pranav Mathur (best)
+* **Pranav Mathur**
 * Zach O'hara
 * Daniel Grimshaw
 
@@ -68,7 +70,7 @@ one.
 * [Learn C](http://www.learn-c.org/)
 
 ####Team Experts
-* Daniel Grimshaw (best)
+* **Daniel Grimshaw**
 
 ---------------------------------------------------------
 
@@ -108,9 +110,8 @@ one.
 * [Learn Shell](http://www.learnshell.org/)
 
 ####Team Experts
-I don't think either of us consider ourselves true experts, but we can try to help:
-* Daniel Grimshaw
-* Pranav Mathur
+* *Daniel Grimshaw*
+* *Pranav Mathur*
 
 ----------------------------------------------------------
 
@@ -174,7 +175,7 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * [Learn You A Haskell](http://learnyouahaskell.com/)
 
 ####Team Experts
-* Pranav Mathur (minimal)
+* *Pranav Mathur*
 
 --------------------------------------------------------
 
@@ -193,7 +194,7 @@ I don't think either of us consider ourselves true experts, but we can try to he
 * [Rust By Example](http://rustbyexample.com/)
 
 ####Team Experts
-* Pranav Mathur (minimal)
+* *Pranav Mathur*
 
 --------------------------------------------------------
 
