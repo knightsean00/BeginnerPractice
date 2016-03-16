@@ -88,6 +88,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * [Learn JS](http://www.learn-js.org/)
 
 ####Team Experts
+* Javier Anton
 * Sean Knight
 
 ---------------------------------------------------------
