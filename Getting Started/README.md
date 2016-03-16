@@ -27,7 +27,8 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 ####Team Experts
 * **Daniel Grimshaw**
 * **Zach O'hara**
-* Pranav Mathur
+* **Pranav Mathur**
+
 
 ---------------------------------------------------------
 
@@ -49,8 +50,8 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 
 ####Team Experts
 * **Pranav Mathur**
-* Zach O'hara
-* Daniel Grimshaw
+* **Zach O'hara**
+* **Daniel Grimshaw**
 
 ---------------------------------------------------------
 
@@ -88,8 +89,8 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * [Learn JS](http://www.learn-js.org/)
 
 ####Team Experts
-* Javier Anton
-* Sean Knight
+* **Sean Knight**
+* **Javier Anton**
 
 ---------------------------------------------------------
 
@@ -104,7 +105,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * Not every computer uses the same language
 * Older
 * Windows version is awful
-* We don't have a Linux computer right now to run these on
+* We have a bad computer that is running Korora (a Fedora distribution) and Kali (a Debian distribution)
 
 ####Tutorials
 * [Learn Shell](http://www.learnshell.org/)
@@ -132,7 +133,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * [Learn CS](http://www.learncs.org/)
 
 ####Team Experts
-* Pranav Mathur
+* **Pranav Mathur**
 
 --------------------------------------------------------
 
@@ -175,7 +176,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * [Learn You A Haskell](http://learnyouahaskell.com/)
 
 ####Team Experts
-* *Pranav Mathur*
+* **Pranav Mathur**
 
 --------------------------------------------------------
 
@@ -194,7 +195,7 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 * [Rust By Example](http://rustbyexample.com/)
 
 ####Team Experts
-* *Pranav Mathur*
+* **Pranav Mathur**
 
 --------------------------------------------------------
 
