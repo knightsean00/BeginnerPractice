@@ -82,14 +82,13 @@ Each language paragraph has a list of pros and cons, a link to a useful tutorial
 
 ####Cons
 * It's pretty weird
-* None of the captains can help you much with this one
 * Lots of bad tutorials on the internet
 
 ####Tutorials
 * [Learn JS](http://www.learn-js.org/)
 
 ####Team Experts
-* No one
+* Sean Knight
 
 ---------------------------------------------------------
 
